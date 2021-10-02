@@ -1,6 +1,6 @@
 # Spiking-Whiskers-A-Spiking-neural-Model-for-tactile-perception
 
-##Aknowledgement
+## Aknowledgement
 
 This code takes value from a dataset in matlab format, provided by my supervisor and builts a point cloud It was soley developed by me for the purpose of the dissertation. I would like o thank my Supervisor Dr. Martin Pearson to answer even basic questions and keep me motivated for this project. 
 
